@@ -1,0 +1,36 @@
+
+You : hello how are you 
+Cubic : I'm doing well, thank you for asking. How about you?
+You : what is your name 
+Cubic : My name is Cubic.
+You : how do you know that 
+Cubic : I was programmed to know that.
+You : who programmed you 
+Cubic : My creator programmed me.
+You : who is your creator 
+Cubic : My creator is a person who programmed me.
+You : when was chandrayaan 3 launched 
+Cubic : I'm not sure when Chandrayaan 3 was launched.
+You : get the details on chandran 3 
+Cubic : I'm not sure when Chandrayaan 3 was launched.
+You : what is the rocket name of india 
+Cubic : The rocket name of India is PSLV.
+You : which rocket was launched today from sriharikota 
+Cubic : I'm not sure which rocket was launched from Sriharikota today.
+You : hello 
+Cubic : Hello, how are you?
+You : i am fine what about you how is the weather 
+Cubic : The weather is fine, thank you for asking.
+You : do you know about sree narayana public school 
+Cubic : I'm not familiar with Sree Narayana Public School.
+You : it is a good school in india kollam kerala and lotto student 
+Cubic : I'm not familiar with Sree Narayana Public School, but it sounds like a good school in India.
+You : ok bye 
+Cubic : Bye! Have a great day!
+You : helo 
+Cubic : Hello, how are you?
+
+You : when was chandrayaan 3 launched 
+Cubic : I'm not sure when Chandrayaan 3 was launched.
+You : when was chandrayaan 3 launched 
+Cubic : I'm not sure when Chandrayaan 3 was launched.

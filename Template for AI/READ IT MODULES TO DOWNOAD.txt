@@ -1,0 +1,26 @@
+pip install PyQt5
+
+pip install torch
+
+pip install nltk
+
+pip install pyautogui
+
+pip install pyaudio
+
+pip install openai
+
+pip install pyttsx3
+
+pip install speechrecognition
+
+pip install googletrans==3.1.0a0
+
+pip install tkinter
+
+pip install phonenumbers
+
+
+* There is a hash in 11 and 12 line of 'Main.py' unhash it run it once to install that module.
+* There is a hash in 91 and 99,100 line of 'GUI.py' Read it.
+* Change the path of all according to your system in code.
