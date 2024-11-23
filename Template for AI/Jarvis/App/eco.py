@@ -3,7 +3,7 @@ from tkinter import messagebox
 import openai
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = 
 
 # Create the main application window
 window = tk.Tk()
